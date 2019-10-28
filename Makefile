@@ -7,4 +7,4 @@ hello.o : hello.c
 #　　gcc -c print.c
 
 clean :
-	rm hello hello.o
+	rm hello hello.o hello.i hello.s
